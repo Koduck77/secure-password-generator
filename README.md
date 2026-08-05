@@ -1,5 +1,7 @@
 # Password Generator
 
+Note
+
 This is a command-line program that creates a random password. The user chooses the password length and whether to include uppercase letters, numbers and symbols.
 
 I used the `secrets` module because it is made for generating secure random values.
